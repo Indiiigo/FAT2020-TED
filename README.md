@@ -7,7 +7,7 @@ The activities and interactions of hundreds of millions of people worldwide are 
 
 TSE                     |  TED
 :----------------------:|:-----------------:
-![TSE](tse_groves.png)  |  ![TDE](tde.png)
+![TSE](tse_groves.png){ width=70%, height = 70%}  |  ![TDE](tde.png)
 
 
 In this tutorial, we will first introduce the audience to the concepts and guidelines of the TSE and how they are applied by survey practitioners in the social sciences, guided by our interdisciplinary background and experience. Second, we will introduce our own conceptual framework to diagnose, under- stand, and avoid errors that may occur in studies that are based on digital traces of humans. Our framework leverages the systematic approach of the TSE and maps its concepts to digital trace settings where applicable. Participants will hence gain insights on (i) how to critically reflect on survey research based on the TSE and (ii) how to translate the recommendations of the TSE to a digital trace setting.
@@ -37,10 +37,10 @@ Browse preliminary literature:
 
 **Indira Sen** is a doctoral candidate in Computational Social Science at GESIS, Leibniz Institute for the Social Sciences in Cologne, Germany. She is interested in understanding biases in inferential studies from digital traces, with a focus on natural language processing.
 
-[**Dr. Fabian Flöck**] (https://www.gesis.org/en/institute/staff/person/fabian.floeck) is a post-doctoral researcher at the Computational Social Science department at GESIS and team leader of the ‘Data Science’ team. He is interested in open and transparent data science, natural language processing, human computation, and collaborative production processes.
+[**Dr. Fabian Flöck**](https://www.gesis.org/en/institute/staff/person/fabian.floeck) is a post-doctoral researcher at the Computational Social Science department at GESIS and team leader of the ‘Data Science’ team. He is interested in open and transparent data science, natural language processing, human computation, and collaborative production processes.
 
-[Dr. Katrin Weller] (https://katrinweller.net/) is an information scientist working at the Computational Social Science department at GESIS and team leader of “Social Analytics and Services”. Her research focus is on social media, new types of research data and data preservation, scholarly communication & altmetrics, web users and communication structures. 
+[Dr. Katrin Weller](https://katrinweller.net/) is an information scientist working at the Computational Social Science department at GESIS and team leader of “Social Analytics and Services”. Her research focus is on social media, new types of research data and data preservation, scholarly communication & altmetrics, web users and communication structures. 
 
-[Dr. Bernd Weiß] (https://brndwss.uber.space/) is head of the GESIS Panel, a probability-based mixed mode panel, and deputy head of the department Survey Design and Methodology at GESIS, Mannheim. His research interests focus on methods of empirical research in the social sciences (especially, survey methodology, and research synthesis). 
+[Dr. Bernd Weiß](https://brndwss.uber.space/) is head of the GESIS Panel, a probability-based mixed mode panel, and deputy head of the department Survey Design and Methodology at GESIS, Mannheim. His research interests focus on methods of empirical research in the social sciences (especially, survey methodology, and research synthesis). 
 
-[JProf. Dr. Claudia Wagner] (http://claudiawagner.info/) is an assistant professor in Computer Science at University Koblenz-Landau and the interim Scientific Director of the Computational Social Science department at GESIS. Her research focuses on methodological challenges that arise when using digital trace data to build models of human behavior and attitudes and the impact of the digitalization on society and science. 
+[JProf. Dr. Claudia Wagner](http://claudiawagner.info/) is an assistant professor in Computer Science at University Koblenz-Landau and the interim Scientific Director of the Computational Social Science department at GESIS. Her research focuses on methodological challenges that arise when using digital trace data to build models of human behavior and attitudes and the impact of the digitalization on society and science. 
