@@ -1,4 +1,6 @@
-# Translation Tutorial: From the Total Survey Error Framework to an Error Framework for Digital Traces of Humans
+# From the Total Survey Error Framework to an Error Framework for Digital Traces of Humans
+
+A Translation Tutorial at the [ACM conference on Fairness, Accountability, and Transparency (FAT*) 2020](https://fatconference.org/2020/index.html), 27th January, 2020 in Barcelona, Spain.
 
 ## About 
 
