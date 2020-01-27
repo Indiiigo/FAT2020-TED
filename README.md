@@ -12,7 +12,7 @@ TSE                     |  TED
 ![TSE](tse_groves_77.png)  |  ![TDE](tde.png)
 
 
-In this tutorial, we will first introduce the audience to the concepts and guidelines of the TSE and how they are applied by survey practitioners in the social sciences, guided by our interdisciplinary background and experience. Second, we will introduce our own conceptual framework to diagnose, under- stand, and avoid errors that may occur in studies that are based on digital traces of humans. Our framework leverages the systematic approach of the TSE and maps its concepts to digital trace settings where applicable. Participants will hence gain insights on (i) how to critically reflect on survey research based on the TSE and (ii) how to translate the recommendations of the TSE to a digital trace setting. [[Tutorial Slides](https://drive.google.com/file/d/1rZVLO3o7yZp0A7OhIEs9AOfixHxY9sqy/view?usp=sharing)]
+In this tutorial, we will first introduce the audience to the concepts and guidelines of the TSE and how they are applied by survey practitioners in the social sciences, guided by our interdisciplinary background and experience. Second, we will introduce our own conceptual framework to diagnose, under- stand, and avoid errors that may occur in studies that are based on digital traces of humans. Our framework leverages the systematic approach of the TSE and maps its concepts to digital trace settings where applicable. Participants will hence gain insights on (i) how to critically reflect on survey research based on the TSE and (ii) how to translate the recommendations of the TSE to a digital trace setting. [[Tutorial Slides](https://drive.google.com/file/d/13QjlTEpbtmOHg2jHTCqPO8rz7wyiDyRb/view?usp=sharing)]
 
 ## Target audience - who may benefit from the tutorial
 
