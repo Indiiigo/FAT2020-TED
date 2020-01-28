@@ -2,6 +2,13 @@
 
 A Translation Tutorial at the [ACM conference on Fairness, Accountability, and Transparency (FAT*) 2020](https://fatconference.org/2020/index.html), 27th January, 2020 in Barcelona, Spain. This tutorial will be held at 15:00 hours in MR3 at the [Barcelo Sants Hotel](https://fatconference.org/2020/venue.html).
 
+# Tutorial Materials
+
+[Tutorial Slides](https://drive.google.com/file/d/13QjlTEpbtmOHg2jHTCqPO8rz7wyiDyRb/view?usp=sharing)
+You may use them in teaching. (License: [CC-BY-SA 4.0]( https://creativecommons.org/licenses/by-sa/4.0/deed.ast)), Please attribute the underlying [paper](https://arxiv.org/abs/1907.08228) as:
+
+Sen, I., Floeck, F., Weller, K., Weiss, B., & Wagner, C. (2019). A Total Error Framework for Digital Traces of Humans. arXiv preprint arXiv:1907.08228. (Working paper)
+
 ## About 
 
 The activities and interactions of hundreds of millions of people worldwide are recorded as digital traces. These data offer increasingly comprehensive pictures of both individuals and groups on different platforms, but also allow inferences about broader target populations beyond those platforms. Notwithstanding the many advantages, studying the errors that can occur when digital traces are used to learn about humans and social phenomena is essential. Incidentally, many similar errors also affect survey estimates, which survey designers have been addressing for decades using error conceptualization frameworks, most notably the Total Survey Error Framework (TSE). 
@@ -12,7 +19,7 @@ TSE                     |  TED
 ![TSE](tse_groves_77.png)  |  ![TDE](tde.png)
 
 
-In this tutorial, we will first introduce the audience to the concepts and guidelines of the TSE and how they are applied by survey practitioners in the social sciences, guided by our interdisciplinary background and experience. Second, we will introduce our own conceptual framework to diagnose, under- stand, and avoid errors that may occur in studies that are based on digital traces of humans. Our framework leverages the systematic approach of the TSE and maps its concepts to digital trace settings where applicable. Participants will hence gain insights on (i) how to critically reflect on survey research based on the TSE and (ii) how to translate the recommendations of the TSE to a digital trace setting. [[Tutorial Slides](https://drive.google.com/file/d/13QjlTEpbtmOHg2jHTCqPO8rz7wyiDyRb/view?usp=sharing)]
+In this tutorial, we will first introduce the audience to the concepts and guidelines of the TSE and how they are applied by survey practitioners in the social sciences, guided by our interdisciplinary background and experience. Second, we will introduce our own conceptual framework to diagnose, under- stand, and avoid errors that may occur in studies that are based on digital traces of humans. Our framework leverages the systematic approach of the TSE and maps its concepts to digital trace settings where applicable. Participants will hence gain insights on (i) how to critically reflect on survey research based on the TSE and (ii) how to translate the recommendations of the TSE to a digital trace setting. 
 
 ## Target audience - who may benefit from the tutorial
 
