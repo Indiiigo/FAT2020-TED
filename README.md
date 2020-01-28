@@ -5,7 +5,7 @@ A Translation Tutorial at the [ACM conference on Fairness, Accountability, and T
 # Tutorial Materials
 
 Here are the [tutorial slides](https://drive.google.com/file/d/13QjlTEpbtmOHg2jHTCqPO8rz7wyiDyRb/view?usp=sharing).
-You may use them in teaching with a [CC-BY-SA 4.0 license]( https://creativecommons.org/licenses/by-sa/4.0/deed.ast)).
+You may use them in teaching with a [CC-BY-SA 4.0 license](https://creativecommons.org/licenses/by-sa/4.0/deed.ast).
 Please attribute the underlying [paper](https://arxiv.org/abs/1907.08228) as:
 
 Sen, I., Floeck, F., Weller, K., Weiss, B., & Wagner, C. (2019). A Total Error Framework for Digital Traces of Humans. arXiv preprint arXiv:1907.08228. (Working paper)
